@@ -43,6 +43,7 @@ setup(
         'setuptools',
         'z3c.jbot',
         'plone.app.dexterity',
+        'collective.z3cform.datagridfield',
     ],
     extras_require={
         'test': [
